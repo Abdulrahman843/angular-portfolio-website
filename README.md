@@ -1,4 +1,4 @@
-# Portfolio Website
+# Angular Portfolio Website
 
 This is a personal portfolio website built using the **Angular framework**. It showcases my projects, skills, and experience. The application is built with **standalone components** instead of modules, and **Angular Router** is used for navigation.
 
